@@ -30,6 +30,10 @@ Passionate about transforming complex data into actionable insights. With a back
 - **Tools:** Power BI (DAX), Power Query, Data Modeling.
 - **Outcome:** Strategic insights for logistics (delivery times) and inventory optimization (ABC Curve).
 
+#### [⚽ Football Contract Analysis (SQL Server)](https://github.com/JaynneLino/sql-football-contracts-analysis)
+- **Goal:** Relational modeling for sports management and advanced T-SQL querying.
+- **Highlights:** Complex Joins and Nested Subqueries for business intelligence.
+
 #### [🏥 Medical Management System](https://github.com/JaynneLino/medical-management-system-poo)
 - **Goal:** Simulating a clinic management system using Object-Oriented Programming (OOP).
 - **Tools:** Python (Classes, Methods, File I/O).
