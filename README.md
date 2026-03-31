@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jaynne Lino! 👋 
 
-<!--
-**JaynneLino/JaynneLino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | MSc in Agronomy | Ex-Sogrape Trainee
 
-Here are some ideas to get you started:
+Passionate about transforming complex data into actionable insights. With a background in Agronomy and a Master's degree, I bridge the gap between technical data analysis and real-world business (and environmental) impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Current Focus:** Data Analysis, Power BI Dashboards, and SQL.
+- 🧪 **Tech Stack:** Python (Pandas, Scikit-learn), SQL, Power BI (DAX), Excel/Power Query.
+- 🛠️ **Experience:** Data cleaning, ETL, Clustering (RFM), and Predictive Modeling.
+- 🇵🇹 **Based in:** Porto, Portugal.
+
+---
+
+### Skills & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jaynnelino/)
