@@ -13,7 +13,7 @@ Passionate about transforming complex data into actionable insights. With a back
 
 ### Skills & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -27,6 +27,11 @@ Passionate about transforming complex data into actionable insights. With a back
 - **Problem:** Identifying customer behavior and seasonal purchase cycles in a real retail dataset.
 - **Tools:** Python (Pandas, Scikit-learn), K-Means, PCA, RapidFuzz.
 - **Outcome:** Segmented customers into 5 strategic personas (VIP, Occasional, etc.) and identified key sales peaks like Valentine's Day.
+
+#### [🛍️ E-commerce Analytics Dashboard](https://github.com/JaynneLino/data-analytics-portfolio)
+- **Goal:** End-to-end Power BI report with Star Schema modeling and ABC/RFM analysis.
+- **Tools:** Power BI (DAX), Power Query, Data Modeling.
+- **Outcome:** Strategic insights for logistics (delivery times) and inventory optimization (ABC Curve).
 
 #### [🏥 Medical Management System](https://github.com/JaynneLino/medical-management-system-poo)
 - **Goal:** Simulating a clinic management system using Object-Oriented Programming (OOP).
