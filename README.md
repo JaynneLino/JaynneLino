@@ -18,4 +18,25 @@ Passionate about transforming complex data into actionable insights. With a back
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
+
+---
+
+### 🌟 Featured Projects
+
+#### [📊 Customer Segmentation & Clustering (RFM)](https://github.com/JaynneLino/customer-clustering-rfm-analysis)
+- **Problem:** Identifying customer behavior and seasonal purchase cycles in a real retail dataset.
+- **Tools:** Python (Pandas, Scikit-learn), K-Means, PCA, RapidFuzz.
+- **Outcome:** Segmented customers into 5 strategic personas (VIP, Occasional, etc.) and identified key sales peaks like Valentine's Day.
+
+#### [🏥 Medical Management System](https://github.com/JaynneLino/medical-management-system-poo)
+- **Goal:** Simulating a clinic management system using Object-Oriented Programming (OOP).
+- **Tools:** Python (Classes, Methods, File I/O).
+- **Outcome:** Appointment scheduling with time-conflict validation and daily reporting.
+
+#### [🏦 Banking System Simulation](https://github.com/JaynneLino/bank-system-python)
+- **Goal:** Functional CLI banking application with Admin and Client interfaces.
+- **Tools:** Python Logic, Data Validation, Statistics.
+- **Outcome:** Secure transaction processing and automated financial reporting.
+
+---
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jaynnelino/)
