@@ -4,7 +4,7 @@
 
 Passionate about transforming complex data into actionable insights. With a background in Agronomy and a Master's degree, I bridge the gap between technical data analysis and real-world business (and environmental) impact.
 
-- 📊 **Current Focus:** Data Analysis, Power BI Dashboards, and SQL.
+- 📊 **Current Focus:** Data Science, Power BI Dashboards, and SQL.
 - 🧪 **Tech Stack:** Python (Pandas, Scikit-learn), SQL, Power BI (DAX), Excel/Power Query.
 - 🛠️ **Experience:** Data cleaning, ETL, Clustering (RFM), and Predictive Modeling.
 - 🇵🇹 **Based in:** Porto, Portugal.
