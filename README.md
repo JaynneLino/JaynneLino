@@ -1,6 +1,6 @@
 # Hi, I'm Jaynne Lino! 👋 
 
-### Data Analyst | MSc in Agronomy | Ex-Sogrape Trainee
+### Data Analyst | MSc in Agronomy
 
 Passionate about transforming complex data into actionable insights. With a background in Agronomy and a Master's degree, I bridge the gap between technical data analysis and real-world business (and environmental) impact.
 
